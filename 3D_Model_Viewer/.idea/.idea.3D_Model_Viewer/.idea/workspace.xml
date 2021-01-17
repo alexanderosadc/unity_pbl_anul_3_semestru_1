@@ -1,22 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="38fe7ee4-81a0-4e0d-98fb-25d669e7d328" name="Default Changelist" comment="" />
+    <list default="true" id="38fe7ee4-81a0-4e0d-98fb-25d669e7d328" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.3D_Model_Viewer/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3D_Model_Viewer/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.3D_Model_Viewer/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3D_Model_Viewer/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.3D_Model_Viewer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3D_Model_Viewer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssetBundles/webgl/cube" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssetBundles/webgl/cube.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssetBundles/webgl/webgl" beforeDir="false" afterPath="$PROJECT_DIR$/AssetBundles/webgl/webgl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssetBundles/webgl/webgl.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/AssetBundles/webgl/webgl.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Cube.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Cube.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AssetBundleDownloader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AssetBundleDownloader.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PubSub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SimpleJSON.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2A0DA6DC-901C-40D0-B0B3-16AD3A9167AF/6e/7b75a37b/DownloadHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/OccupyRoomsManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/UploadGoogleCloudStorage.cs" />
         <option value="$PROJECT_DIR$/Assets/Editor/UploadGoogleCloudStorage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/OccupyRoomsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PubSub.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AssetBundleDownloader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SimpleJSON.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RoomsManager.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1lEnSD8QJsB6hSThOppo6YEOYBd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -61,6 +110,17 @@
       <workItem from="1607171249294" duration="3889000" />
       <workItem from="1607175957609" duration="11084000" />
       <workItem from="1607280614665" duration="1550000" />
+      <workItem from="1607347401503" duration="757000" />
+      <workItem from="1607381573749" duration="294000" />
+      <workItem from="1607517251182" duration="2190000" />
+      <workItem from="1607536634795" duration="4699000" />
+      <workItem from="1607543120081" duration="6160000" />
+      <workItem from="1607693703265" duration="1214000" />
+      <workItem from="1607742961262" duration="1818000" />
+      <workItem from="1609957381893" duration="51000" />
+      <workItem from="1610032338670" duration="3543000" />
+      <workItem from="1610800535097" duration="4936000" />
+      <workItem from="1610888500937" duration="4641000" />
     </task>
     <servers />
   </component>
@@ -69,6 +129,18 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
