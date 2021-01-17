@@ -14,6 +14,7 @@ using UnityEditor;
 
 public class AssetBundleDownloader : MonoBehaviour
 {
+    [SerializeField] private RoomsManager _roomsManager;
     private string uriGoogle = "https://google.com";
     public string uri = "";
     // public string assetName = "cube";
@@ -25,16 +26,15 @@ public class AssetBundleDownloader : MonoBehaviour
 
     private void Start()
     {
-        Debug.Log(Application.persistentDataPath);
-        if (File.Exists(Application.persistentDataPath + "/3DModel"))
+        /*if (File.Exists(Application.persistentDataPath + "/3DModel"))
         {
             LoadFromLocal();
         }
         else
-        { 
+        { */
             Debug.Log("RoomDownloading");
             Download3DModel();
-        }
+       // }
         
         //StartCoroutine(nameof(WaitDataFromServer));
     }
@@ -45,7 +45,8 @@ public class AssetBundleDownloader : MonoBehaviour
         AssetBundle assetBundle = AssetBundle.LoadFromMemory(data);
         GameObject gameObject = assetBundle.LoadAsset<GameObject>("office_1");
         Instantiate(gameObject);
-        PubSub.current.OnRoomLoaded();
+        _roomsManager.GetOccupiedRoomsFromServer();
+        //PubSub.current.OnRoomLoaded();
     }
 
     private void Download3DModel()
@@ -63,7 +64,8 @@ public class AssetBundleDownloader : MonoBehaviour
             
             GameObject gameObject = assetBundle.LoadAsset<GameObject>("office_1");
             Instantiate(gameObject);
-            PubSub.current.OnRoomLoaded();
+            _roomsManager.GetOccupiedRoomsFromServer();
+            //PubSub.current.OnRoomLoaded();
         }).Catch(err => {
             //EditorUtility.DisplayDialog ("Error", err.Message, "Ok");
         });

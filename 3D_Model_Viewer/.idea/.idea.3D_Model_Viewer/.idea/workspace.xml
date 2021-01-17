@@ -20,22 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38fe7ee4-81a0-4e0d-98fb-25d669e7d328" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.3D_Model_Viewer/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3D_Model_Viewer/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.3D_Model_Viewer/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3D_Model_Viewer/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.3D_Model_Viewer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3D_Model_Viewer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AssetBundles/webgl/cube" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AssetBundles/webgl/cube.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssetBundles/webgl/office_1" beforeDir="false" afterPath="$PROJECT_DIR$/AssetBundles/webgl/office_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssetBundles/webgl/office_1.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/AssetBundles/webgl/office_1.manifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AssetBundles/webgl/webgl" beforeDir="false" afterPath="$PROJECT_DIR$/AssetBundles/webgl/webgl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AssetBundles/webgl/webgl.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/AssetBundles/webgl/webgl.manifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Cube.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Cube.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Office_1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Office_1.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/AssetBundleDownloader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AssetBundleDownloader.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RoomsManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RoomsManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +52,8 @@
         <option value="$PROJECT_DIR$/Assets/Editor/UploadGoogleCloudStorage.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/OccupyRoomsManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PubSub.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/AssetBundleDownloader.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SimpleJSON.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AssetBundleDownloader.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RoomsManager.cs" />
       </list>
     </option>
@@ -120,7 +114,8 @@
       <workItem from="1609957381893" duration="51000" />
       <workItem from="1610032338670" duration="3543000" />
       <workItem from="1610800535097" duration="4936000" />
-      <workItem from="1610888500937" duration="4641000" />
+      <workItem from="1610888500937" duration="10035000" />
+      <workItem from="1610918807508" duration="1166000" />
     </task>
     <servers />
   </component>
